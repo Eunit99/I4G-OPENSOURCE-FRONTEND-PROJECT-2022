@@ -29,7 +29,7 @@ git clone your forked url && cd dir
 <p>3. install dependencies</p>
 
 ```
-yarn
+yarn install
 ```
 
 <p>4. switch to another branch to start your work.</p>
